@@ -12,6 +12,11 @@ dependencies:
       url: https://github.com/TeFlink/core.git
       ref: master
     # path: ../core
+  teflink_http:
+    path: ../http
+    # git:
+    #   url: https://github.com/TeFlink/http.git
+    #   ref: master
 
 dev_dependencies:
   pedantic: ^1.8.0
