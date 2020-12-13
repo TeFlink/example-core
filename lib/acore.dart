@@ -1,7 +1,7 @@
 /// Support for doing something awesome.
 ///
 /// More dartdocs go here.
-library acore;
+library teflink_acore;
 
 export 'src/acore_base.dart';
 

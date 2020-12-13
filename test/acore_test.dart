@@ -1,4 +1,4 @@
-import 'package:acore/acore.dart';
+import 'package:teflink_acore/acore.dart';
 import 'package:test/test.dart';
 
 void main() {
